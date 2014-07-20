@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='ftp://app@8merch.com/lemonstand/current/modules/'
+let g:netrw_dirhist_2='ftp://app@8merch.com/lemonstand/current/modules/shop/'
+let g:netrw_dirhist_3='ftp://app@8merch.com/lemonstand/current/modules/shop/resources/'
+let g:netrw_dirhist_4='ftp://app@8merch.com/lemonstand/current/modules/shop/resources/javascript/'
+let g:netrw_dirhist_5='ftp://app@8merch.com/'
+let g:netrw_dirhist_6='ftp://delta-scotland.co.uk@delta-scotland.co.uk/'
+let g:netrw_dirhist_7='ftp://delta-scotland.co.uk@ftp.delta-scotland.co.uk/'
+let g:netrw_dirhist_8='/media/8merch/current/phproad/modules/db/behaviors/db_listbehavior'
